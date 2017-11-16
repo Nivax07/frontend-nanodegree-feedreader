@@ -1,21 +1,23 @@
-How to Run this project
+# feed-reader testing
 
-	Using git
+## Description
+A pre-existing feedreader that I wrote tests for using jasmine.
 
-	Click "Clone in Desktop" 
-	Open git bash
-	git clone the url from git bash.
-	Open the folder.
-	Open index.html on your preferred browser.
+## Installation
+* Clone the repo: git clone https://github.com/jchaplin2/frontend-nanodegree-feedreader
+* Load index.html in a web browser
 
-	Using a zip file
+## Tests included
+* Tests that RSS feeds are present with names and urls.
+* Tests menu showing/hiding
+* Tests that at least one entry loads when feeds are loaded. 
 
-	Click "Download ZIP" and unzip the file.
-	Open the folder.
-	Open index.html on your preferred browser.
+## Demo
+[Demo](https://jchaplin2.github.io/frontend-nanodegree-feedreader/)
 
-Tests included
+## Resources:
+* JQuery: https://jquery.com/
+* Jasmine: https://jasmine.github.io/
 
-	-Tests that RSS feeds are present with names and urls.
-	-Tests menu showing/hiding
-	-Tests that at least one entry loads when feeds are loaded. 
+## Inspiration
+https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001
